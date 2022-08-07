@@ -1,5 +1,7 @@
 # Death Star
 
+(Spoilers for anything prior to end of chapter 89 of The Deathworlders: https://deathworlders.com/books/deathworlders/chapter-89-titanomachy/)
+
 **Date Point: 25y2m13d AV**
 
 Cairns, Australia, Earth
