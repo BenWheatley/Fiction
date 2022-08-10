@@ -10,11 +10,15 @@ Cairns, Australia, Earth
 
 Alpha Centauri had exploded.
 
+![Supernova](supernova.jpg)
+
 Stars like that weren't supposed to be able to explode, but of course the explosion hadn't been natural — it had been blown up as the last act of vengeance by the Hunters, their final strike against civilisation before the allied fleets had *finally* done the Dominion a favour by wiping them out.
 
 "Bloody typical," Jo swore at nobody in particular, "First chance I get for a real holiday in two years, and this happens."
 
 She switched off the TV and turned on her tablet. *Hundreds* of new notifications, mostly saccharine condolences from ET collaborators, expressing sadness about the impending destruction of her planet, four years from now when the light from the explosion finally reached the Sol system.
+
+![Jo Lawrence, PhD](dr_jo_lawrence.jpg)
 
 Jo shook her head with a frown. Such fatalism was hardly their fault: just as the Hunters had treated the bodies of every sentient race in the galaxy with even more contempt than a factory farmed chicken, the Hierarchy — the uploaded minds who were the power *behind* the Hunters — had treated the brains of all sentient life in the galaxy as a garden to be tended and weeded, and they had used neural implants to *trim* even the thought of being able to defend oneself so thoroughly, so completely, that even after Humanity had pulled back the curtains and shown the conspiracy, even after the neural implants had been taken away, it had still taken a *decade* to turn the ET fleets into anything more capable than Jo could've managed all by herself. That wasn't hubris on her part — she knew full well that any human who cared about war would outmatch her by an even larger margin than she outmatched the ETs, but at times like this she understood why some dismissed these well-meaning friends and colleagues as just "Squishy Xenos".
 
@@ -25,6 +29,8 @@ Distractions. These days, Jo found it was far too easy to get distracted, and th
 OK, so… how much energy had the Hunters actually sent this way, given it wasn't a natural supernova? The article was short of details; it seemed the AEC hadn't announced anything publicly yet, and all the details came from a privately funded probe studying the *Beta* Centauri system a few light-hours from Alpha Cen. Assume the entire star had been fused all the way up to Nickel-56… "Computer, calculate: mass Alpha Centauri divided by proton mass times seven em-e-vee"
 
 The screen displayed "1.34103664×10^45 joules", far more precision than was warranted. Still, 1.35 to the 45, more than a type Ia, less than a GRB. Probably far more than enough to pop the Sol system shield, though the exact strength of system shields was *yet another* classified piece of information. Assume the shield blocked 99.9% of that, and what was left would *still* be six billion times more than enough to do to Earth what Peter Cushing did to Alderaan. In fact, even with 99.9% losses, that was enough to make *any* object inside the Sol shield — any planet, any asteroid, the sun itself — explode so violently that the Earth would be destroyed by that explosion. It was such a monumentally large energy that it hitting a small moon on the far side of Saturn or Jupiter would release enough energy into those planets that those planets would explode forcefully enough that the small fraction of them which reached Earth would still be enough to boil off not just Earth's atmosphere and oceans but also the entire crust and at least the first few hundred kilometres of mantle. More distant objects might only explode with enough force to merely render the planet uninhabitable even without the physical disassembly of the planet — it could probably hit any of hundreds of targets outside the System shield, for example Pluto, and enough of the flash of light from the exploding former-planet (in both senses) would probably be enough to sterilise Earth. So, don't rely on the system shield.
+
+![Voice interface](VoiceInterface.png)
 
 What next… well, the energy would only really be that focussed if the Hunters had some very interesting forcefield technology. But forcefield tech wasn't *magic*, even it sometimes felt that way: Thermodynamics meant that *de*focussing was much easier than focussing — Jo smiled ruefully that her increasingly skittish brain was just obeying a fundamental law of the universe — so, some fraction of the energy would be wasted even in the best case. Did that help? Not directly, but she could already see a way for focussing forcefields to help no matter what the Hunters had done. A warp-capable ship flying alongside the focussed explosion at *just under* the speed of light would be able to project a deflecting forcefield in the path of the beam, and power itself from the energy in that beam. But it would need to sweep the entire width of the death ray to avoid surprises from the Kuiper Belt and the Oort Cloud.
 
